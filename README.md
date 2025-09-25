@@ -1,33 +1,10 @@
 Sup, I'm Gustavo, I live in the terminal, building random stuff with code and breaking linux configs.
 Currently figuring out full-stack dev + ai.
-```
-⠀⠀⠀⠀⠀⠀⣀⡀⠀⣀⣀⣀⠤⣀⡴⡇⠀⣠⣤⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢰⠖⣋⣀⣀⠀⠁⠀⠳⡼⠻⣿⣆⣀⡀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀ ⠀⠐⢻⠖⠞⠁⡻⠟⠉⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠒⠐⠶⢤       ┌───────────────────────Specs────────────────────────┐
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⣠⠀⠀⠀⠀⣴⣦⡀⠀⠀⠀⣀⣠⡀ ⠀⠈       󱚢 OS: Gustavo Muniz                                   
-⠀⠀⠈⠁⠀⠀⠀⠀⠀⠈⢿⣼⣿⣤⣠⣷⣠⣿⣧⣦⣴⣺  ⠀ ⠀⠀⠀⠀⠀   │ ├Tech Stack: ..........Next.js/React, Node, FastAPI 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠹⣿⣿⣿⣿⣿⣿⣿⣿   ⠀⠁⠀⠀⡁⠀⠀   │ ├Interests: ....Full-stack, AI/ML, Systems, Tooling 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣡⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠖⠻⠇⠀⡀   │ │                                                   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢹⣿⣿⣿⣿⣿⣿⣿⣿⣖⠀⠀⣴⣷⠄⣠⡴⠁   │ ├Languages.Programming: ....JS/TS, Python, Lua, C++ 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⠟⠿⢿⣿⡿⠿⠟⠛⠿⠙  ⣻⠍⣠⠟⠂⠀   │ ├Languages.Real: .......Portuguese(BR), English(US) 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣇⠀⠀⠀⡀⠀⢀⠀⠀ ⠀⠀⠀⠀⠀  │ │                                                   
-⠀⠀⠀⠀⠀⠀⠀⣤⣠⣤⣤⣨⣤⣤⣾⣿⣿⣿⣷⣶⣿⣿⣾⣿⣿⡄ ⠀⠀⠀⠀⠀  │ ├Hobbies.Software: ....Pentesting, Algorithms, Linux
-⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀│ └Hobbies.Hardware: .......Robotics, Microcontrollers
-⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⡿⢿⣿⣿⠿⣿⣿⣿⣿⣿⡿⠀ ⠀⠀⠀⠀⠀⠀⠀└────────────────────────────────────────────────────┘
-⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣥⡀⠉⠁⣠⣿⣿⣿⣿⣿⠁⠀ ⠀⠀⠀⠀⠀⠀⠀┌──────────────────────Contact───────────────────────┐
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⡿⠿⠿⠷⠿⠿⠿⣿⣿⠟⡁⠀⠀ ⠀⠀⠀⠀⠀⠀⠀󰇮 Email: ........................gusmunizsch@gmail.com
-⠀⠀⠀⡠⠁⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣷⣿⠿⢿⣿⡟⡘⠁⠀⠀ ⠀⠀⠀⠀⠀⠀⠀│ LinkedIn: ...............................GuMuniz3301
-⠀⠀⠘⠿⡄⣀⠃⠀⠀⠀⠀⠀⢨⣿⣤⣠⣤⣤⣤⣾⣿⠏⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⠇⠀│ Discord: .....................................unknny
-⢰⡄⠀⡄⢄⠙⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀ ⠀⠀⠀⢠⡞⠀⠀└────────────────────────────────────────────────────┘
-⠈⡇⠀⠃⠀⠑⣄⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀          ┌────────────────────Uptime / Age────────────────────┐
-⠀⣱⠆⠀⠀⠀⠀⢢⡀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠋⠀⠀⠀⢠⣾⣿󱦟 OS Age: 19 years                                    
-⠀⢌⡉⠄⠀⠰⡀⠀⠑⢢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⣰⣿⣿⣟└────────────────────────────────────────────────────┘
-⠀⢸⡓⠀⠠⡀⠑⢤⡀⠀⠙⠿⢦⡀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣯⣰⡟⢀⡄⠀⠀
-⠀⢸⣦⣄⠀⠸⢦⡀⣈⠀⠀⠀⠀⠀⠀⠠⠀ ⠠⡄⠀⠀⠀⠀⣀⡀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⣋⣥⠀⠀
-⠀⢸⣿⣿⡄⠀⠘⢿⣌⡳⣶⣤⣤⡀⠀⡄⢀⠀⡀⢰⣀⢻⣿⣿⡟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠚⣩⡴⠆⠀
-⠀⢸⣿⣿⣿⣆⡀⢚⣿⣿⣮⣿⣿⡅⢿⠄⣈⢲⣿⣸⣿⣬⣿⣿⣷⣿⡉⢩⣿⣿⣿⣿⣿⣿⣿⣿⡧⢪⡥⢴⣶⡄
 
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/info-dark.png">
+  <img alt="Fastfetch screenshot with specs" src="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/info-light.png" width="100%">
+</picture>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" alt="Arch"/>
