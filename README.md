@@ -2,8 +2,8 @@ Sup, I'm Gustavo, I live in the terminal, building random stuff with code and br
 Currently figuring out full-stack dev + ai.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/info-dark.png">
-  <img alt="Fastfetch screenshot with specs" src="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/info-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/main/info-dark.png">
+  <img alt="Fastfetch screenshot with specs" src="https://raw.githubusercontent.com/donotfeedthevirus/donotfeedthevirus/main/info-light.png" width="100%">
 </picture>
 
 <p align="left">
@@ -30,6 +30,6 @@ Currently figuring out full-stack dev + ai.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=donotfeedthevirus&theme=tokyonight&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donotfeedthevirus&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=donotfeedthevirus&theme=gruvbox&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donotfeedthevirus&layout=compact&theme=gruvbox&hide_border=true" height="140"/>
 </p>
